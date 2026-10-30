@@ -1,0 +1,4 @@
+# ninja log v5
+19	6523	1753965274365446700	/mnt/e/Pranet_linux/lib/Vision_RWKV/mmseg_custom/models/backbones/ops/build/temp.linux-x86_64-cpython-310/mnt/e/Pranet_linux/lib/Vision_RWKV/mmseg_custom/models/backbones/ops/src/cpu/ms_deform_attn_cpu.o	2c431392589b278f
+26	15713	1753965283551077100	/mnt/e/Pranet_linux/lib/Vision_RWKV/mmseg_custom/models/backbones/ops/build/temp.linux-x86_64-cpython-310/mnt/e/Pranet_linux/lib/Vision_RWKV/mmseg_custom/models/backbones/ops/src/vision.o	9cd57e40e5b961df
+22	23412	1753965291240577600	/mnt/e/Pranet_linux/lib/Vision_RWKV/mmseg_custom/models/backbones/ops/build/temp.linux-x86_64-cpython-310/mnt/e/Pranet_linux/lib/Vision_RWKV/mmseg_custom/models/backbones/ops/src/cuda/ms_deform_attn_cuda.o	b83e410db9b4162a
